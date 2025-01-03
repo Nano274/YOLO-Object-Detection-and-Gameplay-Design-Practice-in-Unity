@@ -14,7 +14,7 @@ The `Model` folder contains the following key files for YOLO-based object detect
 2. You can use these files directly or train and fine-tune your own model to replace them for customized detection.
 
 3. <div align="center">
-  <img src="Pictures/Setting1.png" alt="Photo" width="405" height="230">
+  <img src="0_Assets/Pictures/Setting1.png/Setting1.png" alt="Photo" width="405" height="230">
 </div>
 
 ## Customization
