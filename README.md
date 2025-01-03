@@ -1,7 +1,7 @@
 # Integrating YOLO Object Detection into 3D Game Development
 
 ## 1. Introduction
-This project implements object detection in a 3D game environment using fine-tuned YOLOv11 models. 
+This project implements object detection in a 3D game environment using fine-tuned YOLOv11 models.   
 It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. This repository only contains the core code, and details about each functionality are provided below.
 
 - **Game Demo Download**: [Not yet available]  
