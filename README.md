@@ -62,13 +62,13 @@ It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. Thi
 
 ## 6. Functionality Overview
 1. **YOLO Implementation**  
-   - Refer to the `YOLO_Scripts` and `Model` folder's `README.md` for details.
+   - Refer to the [`YOLO_Scripts`](0_Assets/Scripts/1_YOLO_Scripts/README.md)  and `Model` folder's `README.md` for details.
 
 2. **Photo Mode Switching**  
-   - Refer to the `PhotoMode_Scripts` folder's `README.md` for details.
+   - Refer to the [`Photo_Scripts`](0_Assets/Scripts/2_Photo_Scripts/README.md)  folder's `README.md` for details.
 
 3. **NPC Module**  
-   - Refer to the `NPC_Scripts` folder's `README.md` for details.
+   - Refer to the [`Npc_Scripts`](0_Assets/Scripts/3_Npc_Scripts/README.md) folder's `README.md` for details.
 
 ---
 
