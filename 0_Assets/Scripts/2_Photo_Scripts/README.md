@@ -1,10 +1,5 @@
 # Photo Mode Module
 
-## Overview
-The Photo Mode module allows players to capture screenshots during gameplay and analyze them using an integrated YOLO object detection system. This module provides a seamless transition between gameplay and Photo Mode while offering UI feedback and dynamic photo management.
-
----
-
 ## Features
 
 ### 1. Capture and Save Photos
@@ -98,6 +93,3 @@ Manages photo display in the UI and handles photo-related actions.
 2. Use **V** to capture a photo.
 3. Press **C** to analyze the captured photo.
 4. Press **P** for Real-Time Analysis Mode or **ESC** to return to gameplay.
-
-For any issues or questions, feel free to open an issue in the repository.
-
