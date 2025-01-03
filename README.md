@@ -4,7 +4,7 @@
 This project implements object detection in a 3D game environment using fine-tuned YOLOv11 models.   
 It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. This repository only contains the core code, and details about each functionality are provided below.
 
-このプロジェクトは、微調整されたYOLOv11モデルを使用して、3Dゲーム環境で物体検出を実現する。主に「写真モード」と「リアルタイム推論モード」の2つのモードを特徴とする。
+このプロジェクトは、微調整されたYOLOv11モデルを使用して、3Dゲーム環境で物体検出を実現する。主に「写真モード」と「リアルタイム推論モード」の2つのモードを特徴とする。  
 このリポジトリはコアコードのみを含み、各機能の詳細は以下に記載する。
 
 - **Game Demo Download**: [Not yet available]  
