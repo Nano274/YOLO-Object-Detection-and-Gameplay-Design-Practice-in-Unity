@@ -2,7 +2,7 @@
 
 ## Features
 1. **Model Integration**
-   - Loads and executes a YOLOv8 model (`.sentis`) using the Unity Sentis framework.
+   - Loads and executes a YOLO model (`.oxxn`) using the Unity Sentis framework.
    - Handles object detection with bounding boxes and class labels.
 
 2. **Photo and Real-Time Analysis**
@@ -98,6 +98,3 @@ This script performs real-time object detection using a camera feed.
 2. Start real-time detection using the `Analysis` script or analyze photos with `RunYOLOv8`.
 3. View bounding boxes and labels rendered dynamically in the Unity scene.
 4. Save analyzed photos for later review.
-
-For further assistance or customization, feel free to open an issue in the repository.
-
