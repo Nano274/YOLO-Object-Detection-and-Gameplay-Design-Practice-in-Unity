@@ -14,7 +14,7 @@ The `Model` folder contains the following key files for YOLO-based object detect
 2. You can use these files directly or train and fine-tune your own model to replace them for customized detection.
 
 3. <div align="center">
-  <img src="0_Assets/Pictures/Setting1.png/Setting1.png" alt="Photo" width="405" height="230">
+  <img src="https://github.com/Nano274/YOLO-Object-Detection-and-Gameplay-Design-Practice-in-Unity.git/Pictures/Setting1.png/Setting1.png" alt="Photo" width="405" height="230">
 </div>
 
 ## Customization
