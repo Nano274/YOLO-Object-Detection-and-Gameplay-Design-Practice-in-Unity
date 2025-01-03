@@ -1,10 +1,5 @@
 # NPC Generation and Movement Module
 
-## Overview
-This module manages the dynamic generation of NPCs and their random wandering behavior in the game. It includes two main scripts: **RandomMovement** for NPC wandering and **AnimalFarm** for NPC spawning.
-
----
-
 ## Scripts
 
 ### 1. RandomMovement Script
