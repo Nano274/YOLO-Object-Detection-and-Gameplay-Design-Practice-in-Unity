@@ -33,6 +33,7 @@ It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. Thi
   <img src="Pictures/Analyzed_Photo_20250103_164320.png" alt="Analyzed_Photo" width="405" height="230">
 </div>
 
+
 ---
 
 ## 4. Game Features
