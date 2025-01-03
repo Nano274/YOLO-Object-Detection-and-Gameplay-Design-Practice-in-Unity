@@ -28,6 +28,11 @@ It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. Thi
 3. **Real-Time Analysis Mode**  
    - Press **P** in Normal Mode to enter Real-Time Analysis Mode, dynamically analyzing objects in the surroundings.
 
+<div align="center">
+  <img src="画像①.png" alt="Example①" width="405" height="230">
+  <img src="画像②.png" alt="Example②" width="405" height="230">
+</div>
+
 ---
 
 ## 4. Game Features
