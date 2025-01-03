@@ -1,0 +1,7 @@
+Pig
+Rooster
+Chick
+Sheep
+Duck
+Cow
+Buffalo
