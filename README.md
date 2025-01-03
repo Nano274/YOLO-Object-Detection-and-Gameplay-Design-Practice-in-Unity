@@ -1,10 +1,11 @@
 # Integrating YOLO Object Detection into 3D Game Development
 
 ## 1. Introduction
-Game name：AI Explorer: Animal Quest
+Game name：AI Explorer: Animal Quest  
 This project implements object detection in a 3D game environment using fine-tuned YOLOv11 models.   
 It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. This repository only contains the core code, and details about each functionality are provided below.
 
+ゲーム名：AI Explorer: Animal Quest  
 このプロジェクトは、微調整されたYOLOv11モデルを使用して、3Dゲーム環境で物体検出を実現する。主に「写真モード」と「リアルタイム推論モード」の2つのモードを特徴とする。  
 このリポジトリはコアコードのみを含み、各機能の詳細は以下に記載する。
 
