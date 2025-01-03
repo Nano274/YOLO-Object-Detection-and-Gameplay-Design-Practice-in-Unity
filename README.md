@@ -39,12 +39,13 @@ It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. Thi
 ## 4. Game Features
 1. **Multi-Level YOLO Optimization**  
    - Different YOLO models are used for Photo Mode and Real-Time Analysis Mode. Photo Mode prioritizes accuracy, while Real-Time Mode optimizes speed.
-<div align="center">
-  <img src="Pictures/dataset.png" alt="Photo" width="405" height="230">
-</div>
+
 
 2. **Custom Dataset Fine-Tuning**  
    - A dataset of 700 images covering 7 animal categories was created and fine-tuned to improve the model's performance.
+<div align="center">
+  <img src="Pictures/dataset.png" alt="Photo" width="405" height="230">
+</div>
 
 3. **Advantages of AI Technology**  
    - AI-powered object detection enhances interactivity and immersion, offering players a dynamic and diverse gaming experience.
