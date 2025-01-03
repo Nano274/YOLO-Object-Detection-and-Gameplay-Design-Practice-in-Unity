@@ -28,11 +28,6 @@ It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. Thi
 3. **Real-Time Analysis Mode**  
    - Press **P** in Normal Mode to enter Real-Time Analysis Mode, dynamically analyzing objects in the surroundings.
 
-<div align="center">
-  <img src="Pictures/Photo_20250103_164320.png" alt="Photo" width="405" height="230">
-  <img src="Pictures/Analyzed_Photo_20250103_164320.png" alt="Analyzed_Photo" width="405" height="230">
-</div>
-
 
 ---
 
