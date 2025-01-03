@@ -29,8 +29,8 @@ It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. Thi
    - Press **P** in Normal Mode to enter Real-Time Analysis Mode, dynamically analyzing objects in the surroundings.
 
 <div align="center">
-  <img src="画像①.png" alt="Example①" width="405" height="230">
-  <img src="画像②.png" alt="Example②" width="405" height="230">
+  <img src="Photo_20250103_164320.png" alt="Photo" width="405" height="230">
+  <img src="Analyzed_Photo_20250103_164320.png" alt="Analyzed_Photo" width="405" height="230">
 </div>
 
 ---
