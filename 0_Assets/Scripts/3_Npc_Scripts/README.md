@@ -75,5 +75,3 @@ The `AnimalFarm` script is responsible for dynamically spawning NPCs at predefin
 - Ensure `NavMesh` is properly baked; otherwise, NPCs cannot move.
 - All NPC prefabs should have compatible Rigidbody and Animator components.
 - Customize the scripts to add additional behaviors or interactions as needed.
-
-For any issues or further customization, feel free to contact the development team or open an issue.
