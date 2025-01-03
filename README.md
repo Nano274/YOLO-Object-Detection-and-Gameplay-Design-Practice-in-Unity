@@ -45,6 +45,7 @@ It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. Thi
    - A dataset of 700 images covering 7 animal categories was created and fine-tuned to improve the model's performance.
 <div align="center">
   <img src="Pictures/dataset.png" alt="Photo" width="405" height="230">
+   <img src="Pictures/val_batch2.jpg" alt="Photo" width="405" height="230">
 </div>
 
 3. **Advantages of AI Technology**  
