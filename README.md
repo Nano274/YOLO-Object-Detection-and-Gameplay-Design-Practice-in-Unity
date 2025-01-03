@@ -8,7 +8,7 @@ It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. Thi
 このリポジトリはコアコードのみを含み、各機能の詳細は以下に記載する。
 
 - **Game Demo Download**: [Not yet available]  
-- **Demo Video**: [Link]  
+- **Demo Video**: [[Link](https://drive.google.com/file/d/1o9uRG3V_Z9lVy1Uda0aQWKHMYT2dVhl4/view?usp=sharing)]  
 
 ---
 
