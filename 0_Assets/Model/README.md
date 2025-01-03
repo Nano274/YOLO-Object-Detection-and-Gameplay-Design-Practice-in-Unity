@@ -13,7 +13,7 @@ The `Model` folder contains the following key files for YOLO-based object detect
 1. Drag and drop the `best.onnx` model file and the `classes_Animal_new.txt` class file into the designated script in Unity to enable object detection functionality.
 2. You can use these files directly or train and fine-tune your own model to replace them for customized detection.
 
-3. <div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Nano274/YOLO-Object-Detection-and-Gameplay-Design-Practice-in-Unity/master//Pictures/Setting1.png" alt="Photo" width="405" height="230">
 </div>
 
