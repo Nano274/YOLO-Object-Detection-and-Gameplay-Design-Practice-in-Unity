@@ -11,7 +11,7 @@ using UnityEngine.Video;
 using Lays = Unity.Sentis.Layers;
 using FF = Unity.Sentis.Functional;
 
-public class RunYOLOv8 : MonoBehaviour
+public class RunYOLOv11 : MonoBehaviour
 {
     // 写真管理スクリプト(PhotoDisplayManager.cs)
     public PhotoDisplayManager photoDisplayManager;
