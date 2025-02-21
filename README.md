@@ -11,7 +11,7 @@ It features two main modes: **Photo Mode** and **Real-Time Inference Mode**. Thi
 
 - **Game Demo Download**: [Not yet available]  
 - **Demo Video**: [[Link](https://drive.google.com/file/d/1o9uRG3V_Z9lVy1Uda0aQWKHMYT2dVhl4/view?usp=sharing)]  
-
+- **Game Introduction (Japanese Only)**:[[Link](https://drive.google.com/file/d/1oy3PeYpD7aT-uNQxhnD9FOml5WN4kc9q/view?usp=drive_link)]  
 ---
 
 ## 2. Environment Configuration
